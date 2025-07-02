@@ -1,0 +1,3 @@
+Laiskuss group project (Laiskuss.bpg):
+agent & client folder must have "compile_units" dir for DCU files (purely for purity)
+live folder - contains static files and 3-rd party DLL's + for Laiskuss project binaries output
